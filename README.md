@@ -52,20 +52,19 @@
 <details>
 <summary>Struktur direktori </summary>
 
-- |-- backend/
+##  |-- backend/
 - |   |-- app.py
 - |   |-- config.py
 - |   |-- database.py
 - |   |-- models.py
 - |   |-- controllers/
 - |       |-- todo_controller.py
-- |-- frontend/
+## |-- frontend/
 - |   |-- index.html
 - |   |-- css/
 - |   |   |-- tailwind.css
 - |   |-- js/
 - |       |-- main.js
-- |-- README.md
-- |-- requirements.txt
+
 
 </details>
