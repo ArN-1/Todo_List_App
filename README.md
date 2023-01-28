@@ -37,6 +37,7 @@
 - Pengguna dapat mencari todo berdasarkan tanggal dan kategori
 - Pengguna akan menerima notifikasi email saat todo mendekati batas waktu
 </details>
+
 <details>
 <summary>Keuntungan Aplikasi</summary>
 
