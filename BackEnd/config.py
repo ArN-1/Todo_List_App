@@ -1,0 +1,1 @@
+# konfigurasi aplikasi, seperti database
